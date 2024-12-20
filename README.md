@@ -1,6 +1,6 @@
 # Strimometr
 
-![Strimometr Preview](https://i.postimg.cc/Ty72Kk7R/image.png)
+![Strimometr Preview]([https://i.postimg.cc/Ty72Kk7R/image.png](https://i.postimg.cc/wvH1bZDs/Screenshot-3.png))
 
 **Strimometr** is a service designed for:
 - Monitoring RTMP/SRT streams
