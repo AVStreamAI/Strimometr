@@ -27,6 +27,6 @@ This project uses **FFmpeg**. Please ensure you comply with the [FFmpeg license]
 
 Strimometr was developed by Sergey Korneyev for **AVStream**.
 
-For inquiries or support, please send a direct message on Telegram: [Kvanterbreher](https://t.me/Kvanterbreher).
+I don't provide technical support, but it's up for discussion: [Kvanterbreher](https://t.me/Kvanterbreher).
 
 If you're looking for localhost, please [proceed here:](https://github.com/AVStreamAI/avstream_rtmp_monitoring_recording_restreaming_tg)
